@@ -2,7 +2,7 @@
     "products": [
         {
             "type": "book",
-            "data": [
+            "data": 
                 {
                     "title": "El túnel",
                     "author": "Ernesto Sábato",
@@ -17,11 +17,11 @@
                     "reservationDate": "25/06/2021",
                     "reservations": 124
                 }
-            ]
+            
         },
         {
             "type": "book",
-            "data": [
+            "data": 
                 {
                     "title": "Ficciones",
                     "author": "Jorge Luis Borges",
@@ -36,12 +36,12 @@
                     "reservationDate": "",
                     "reservations": 1540
                 }
-            ]
+            
         },
 
         {
             "type": "book",
-            "data": [
+            "data": 
                 {
                     "title": "Rayuela",
                     "author": "Julio Cortázar",
@@ -56,12 +56,12 @@
                     "reservationDate": "28/11/2021",
                     "reservations": 366
                 }
-            ]
+            
         },
 
         {
             "type": "movie",
-            "data": [
+            "data": 
                 {
                     "title": "GreenBook",
                     "durationInMinutes": 130,
@@ -85,11 +85,11 @@
                     "reservationDate": "12/03/2021",
                     "reservations": 888
                 }
-            ]
+            
         },
         {
             "type": "movie",
-            "data": [
+            "data": 
                 {
                     "title": "La La Land",
                     "durationInMinutes": 130,
@@ -116,11 +116,11 @@
                     "reservationDate": "",
                     "reservations": 255
                 }
-            ]
+            
         },
         {
             "type": "movie",
-            "data": [
+            "data": 
                 {
                     "title": "Interestelar",
                     "durationInMinutes": 139,
@@ -144,11 +144,11 @@
                     "reservationDate": "15/08/2021",
                     "reservations": 689
                 }
-            ]
+            
         },
         {
             "type": "magazine",
-            "data": [
+            "data": 
                 {
                     "title": "RollingStone",
                     "number" : 70,
@@ -162,11 +162,11 @@
                     "reservationDate": "",
                     "reservations": 2651
                 }
-            ]
+            
         },
         {
             "type": "magazine",
-            "data": [
+            "data": 
                 {
                     "title": "Batman vol 1",
                     "number" : 399,
@@ -180,11 +180,11 @@
                     "reservationDate": "16/09/2021",
                     "reservations": 654
                 }
-            ]
+            
         },
         {
             "type": "magazine",
-            "data": [
+            "data": 
                 {
                     "title": "National Geographic",
                     "number" : 55,
@@ -198,7 +198,7 @@
                     "reservationDate": "",
                     "reservations": 2651
                 }
-            ]
+            
         }
     ]
 }
