@@ -1,0 +1,204 @@
+{
+    "products": [
+        {
+            "type": "book",
+            "data": [
+                {
+                    "title": "El túnel",
+                    "author": "Ernesto Sábato",
+                    "pagesNumber": 230,
+                    "thumbnail": "el_tunel.jpg",
+                    "gender" : {
+                        "genderName" : "police",
+                        "credits" : 550
+                    },
+                    "isReserved": true,
+                    "reservedBy": "Julian Blanco",
+                    "reservationDate": "25/06/2021",
+                    "reservations": 124
+                }
+            ]
+        },
+        {
+            "type": "book",
+            "data": [
+                {
+                    "title": "Ficciones",
+                    "author": "Jorge Luis Borges",
+                    "pagesNumber": 380,
+                    "thumbnail": "ficciones.jpg",
+                    "gender" : {
+                        "genderName" : "fantasy",
+                        "credits" : 430
+                    },
+                    "isReserved": false,
+                    "reservedBy": "",
+                    "reservationDate": "",
+                    "reservations": 1540
+                }
+            ]
+        },
+
+        {
+            "type": "book",
+            "data": [
+                {
+                    "title": "Rayuela",
+                    "author": "Julio Cortázar",
+                    "pagesNumber": 908,
+                    "thumbnail": "rayuela.jpg",
+                    "gender" : {
+                        "genderName" : "Novela",
+                        "credits" : 330
+                    },
+                    "isReserved": true,
+                    "reservedBy": "Franco Gerez",
+                    "reservationDate": "28/11/2021",
+                    "reservations": 366
+                }
+            ]
+        },
+
+        {
+            "type": "movie",
+            "data": [
+                {
+                    "title": "GreenBook",
+                    "durationInMinutes": 130,
+                    "actors": [
+                        {
+                            "name" : "Mahershala Ali"
+                        },
+                        {
+                            "name" : "Viggo Mortensen"
+                        },
+                        {
+                            "name" : "Nick Vallelonga"
+                        },
+                        {
+                            "name" : "Linda Cardellini"
+                        }
+                    ],
+                    "thumbnail": "greenbook.jpg",
+                    "isReserved": true,
+                    "reservedBy": "Lucia Yutzeler",
+                    "reservationDate": "12/03/2021",
+                    "reservations": 888
+                }
+            ]
+        },
+        {
+            "type": "movie",
+            "data": [
+                {
+                    "title": "La La Land",
+                    "durationInMinutes": 130,
+                    "actors": [
+                        {
+                            "name" : "Emma Stone"
+                        },
+                        {
+                            "name" : "Ryan Gosling"
+                        },
+                        {
+                            "name" : "J. K. Simmons"
+                        },
+                        {
+                            "name" : "John Legend"
+                        },
+                        {
+                            "name" : "Finn Wittrock"
+                        }
+                    ],
+                    "thumbnail": "lalaland.jpg",
+                    "isReserved": false,
+                    "reservedBy": "",
+                    "reservationDate": "",
+                    "reservations": 255
+                }
+            ]
+        },
+        {
+            "type": "movie",
+            "data": [
+                {
+                    "title": "Interestelar",
+                    "durationInMinutes": 139,
+                    "actors": [
+                        {
+                            "name" : "Matthew McConaughey"
+                        },
+                        {
+                            "name" : "Anne Hathaway"
+                        },
+                        {
+                            "name" : "Jessica Chastain"
+                        },
+                        {
+                            "name" : "Mackenzie Foy"
+                        }
+                    ],
+                    "thumbnail": "insterstelar.jpg",
+                    "isReserved": true,
+                    "reservedBy": "Cristian Quintana",
+                    "reservationDate": "15/08/2021",
+                    "reservations": 689
+                }
+            ]
+        },
+        {
+            "type": "magazine",
+            "data": [
+                {
+                    "title": "RollingStone",
+                    "number" : 70,
+                    "publication": {
+                        "year": 2011,
+                        "month": "June"
+                    },
+                    "thumbnail": "rolling.jpg",
+                    "isReserved": false,
+                    "reservedBy": "",
+                    "reservationDate": "",
+                    "reservations": 2651
+                }
+            ]
+        },
+        {
+            "type": "magazine",
+            "data": [
+                {
+                    "title": "Batman vol 1",
+                    "number" : 399,
+                    "publication": {
+                        "year": 1965,
+                        "month": "January"
+                    },
+                    "thumbnail": "batman.jpg",
+                    "isReserved": true,
+                    "reservedBy": "Lucas Moyano",
+                    "reservationDate": "16/09/2021",
+                    "reservations": 654
+                }
+            ]
+        },
+        {
+            "type": "magazine",
+            "data": [
+                {
+                    "title": "National Geographic",
+                    "number" : 55,
+                    "publication": {
+                        "year": 2009,
+                        "month": "August"
+                    },
+                    "thumbnail": "national.jpg",
+                    "isReserved": false,
+                    "reservedBy": "",
+                    "reservationDate": "",
+                    "reservations": 2651
+                }
+            ]
+        }
+    ]
+}
